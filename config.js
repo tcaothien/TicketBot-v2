@@ -23,5 +23,5 @@
 module.exports = {
     token: '',
     guildId: '',
-    mongodbURI: 'mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority'
+    mongodbURI: 'mongodb+srv://tca:tca@enzlewy.obwxx.mongodb.net/?retryWrites=true&w=majority'
 };
